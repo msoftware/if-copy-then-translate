@@ -1,4 +1,4 @@
-package com.yang.translate.demos.translate.uctoast;
+package com.yang.translate;
 
 import org.junit.Test;
 
