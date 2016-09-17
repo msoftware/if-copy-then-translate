@@ -1,6 +1,6 @@
 # if-copy-then-translate
 
-![demo]()
+![demo](https://github.com/yqf19930712/if-copy-then-translate/blob/master/art/demo.gif)
 
 Translating the contents of the clipboard and immediately toasting.
 
