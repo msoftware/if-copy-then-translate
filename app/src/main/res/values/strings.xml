@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ICTT</string>
+    <string name="action_about">About</string>
+    <string name="tip">translate:</string>
+    <string name="init_tip">Translating the contents of the clipboard and immediately toasting.</string>
+</resources>
